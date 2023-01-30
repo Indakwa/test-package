@@ -1,0 +1,10 @@
+{
+  "name": "@indakwa/you-are-awesome",
+  "version": "1.0.0",
+  "description": "you are awesome!",
+  "main": "index.js",
+  "repository": "https://github.com/Indakwa/test-package.git",
+  "author": "Indakwa <benedictindakwa@gmail.com>",
+  "license": "MIT",
+  "private": false
+}
